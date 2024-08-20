@@ -146,7 +146,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 Desenvolvido com ♥ por Hedris Pereira para o setor financeiro de crédito do Banco Master.
-
----
-
-Esse README fornece uma explicação clara e detalhada sobre como configurar e utilizar a aplicação, além de destacar as boas práticas e padrões adotados. Se precisar de mais alguma coisa, estou aqui para ajudar!
