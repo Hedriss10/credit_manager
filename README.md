@@ -5,7 +5,7 @@
 ## Tecnologias Utilizadas
 
 - **Backend:** Flask (Python)
-- **Frontend:** HTML, CSS (Bootstrap), JavaScript
+- **Frontend:** HTML, CSS , JavaScript
 - **Banco de Dados:** SQLite (pode ser facilmente substituído por outro SGBD)
 - **Migrações de Banco de Dados:** Flask-Migrate
 - **Formulários:** Flask-WTF
