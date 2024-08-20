@@ -135,6 +135,9 @@ A aplicação estará disponível em `http://127.0.0.1:5000/`.
 - **Design System:** A aplicação utiliza Bootstrap para garantir uma interface consistente e responsiva. CSS customizado foi adicionado para adaptar o design ao branding do Banco Master.
 - **Arquitetura Modular:** A estrutura do projeto é modular, permitindo fácil extensão e adição de novas funcionalidades.
 
+<img src="app/img/fluxo-projeto-trabalho-estacio.png"></img>
+
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto. Se você encontrar bugs ou quiser sugerir melhorias, abra uma issue ou envie um pull request.
