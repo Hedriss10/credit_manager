@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Add New Credit Request</h2>
+    <form method="POST">
+        {{ form.hidden_tag() }}
+        <div>
+            {{ form.client_name.label }}<br>
+            {{ form.client_name(size=32) }}
+        </div>
+        <div>
+            {{ form.credit_amount.label }}<br>
+            {{ form.credit_amount() }}
+        </div>
+        <div>
+            {{ form.submit() }}
+        </div>
+    </form>
+{% endblock %}
